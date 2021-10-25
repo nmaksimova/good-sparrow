@@ -1,5 +1,5 @@
 ---
-title: lorem-tet
+title: lorem-test
 subtitle: lorem-ipsum
 date: '2021-10-25'
 categories: []
